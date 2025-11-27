@@ -101,8 +101,10 @@ html, body {
 }
  
 body {
-    background-image:url('https://64.media.tumblr.com/ceb507ab56844ec5f5617570abf720b5/e2b349b6477362fc-19/s2048x3072/fafd64bbb9982bb49df0534013ad885f5a255ac6.png');  /* aqui va el link del fondo */
-    background-repeat:repeat;
+/* aqui va el link del fondo */
+	background-image:url('https://64.media.tumblr.com/ceb507ab56844ec5f5617570abf720b5/e2b349b6477362fc-19/s2048x3072/fafd64bbb9982bb49df0534013ad885f5a255ac6.png');  
+    
+	background-repeat:repeat;
     background-color:#0c0c0c;
     background-attachment:fixed;
     word-wrap:break-word;
